@@ -1,0 +1,25 @@
+div {
+  background-color: #eee;
+  width: 200px;
+  height: 100px;
+  border: 1px dotted black;
+  overflow: scroll;
+}
+
+/* div {
+  background-color: #eee;
+  width: 200px;
+  height: 100px;
+  border: 1px dotted black;
+  overflow: auto;
+}
+
+div {
+  background-color: #eee;
+  width: 200px;
+  height: 100px;
+  border: 1px dotted black;
+  overflow-x: hidden;
+  overflow-y: scroll;
+} */
+
